@@ -1,2 +1,2 @@
 # repos-prueba2
-Segundo repositorio de prueba
+Repo de prueba para saber utlizar github
